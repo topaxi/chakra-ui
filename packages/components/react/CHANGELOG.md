@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.8.2
+
+### Patch Changes
+
+- Updated dependencies
+  [[`6d12ea81f`](https://github.com/chakra-ui/chakra-ui/commit/6d12ea81f4791f4df2953533b570178f59551b74),
+  [`3dc2dd41d`](https://github.com/chakra-ui/chakra-ui/commit/3dc2dd41d50674834cc23f449da37fd604cf311c)]:
+  - @chakra-ui/alert@2.2.2
+  - @chakra-ui/toast@7.0.2
+
 ## 2.8.1
 
 ### Patch Changes

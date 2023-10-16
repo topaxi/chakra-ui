@@ -1,5 +1,15 @@
 # Change Log
 
+## 2.2.2
+
+### Patch Changes
+
+- [#8014](https://github.com/chakra-ui/chakra-ui/pull/8014)
+  [`6d12ea81f`](https://github.com/chakra-ui/chakra-ui/commit/6d12ea81f4791f4df2953533b570178f59551b74)
+  Thanks [@CalleEklund](https://github.com/CalleEklund)! - Set the standard
+  color for toasts and alerts to a slightly darker color to make i WCAG
+  compatible
+
 ## 2.2.1
 
 ### Patch Changes
